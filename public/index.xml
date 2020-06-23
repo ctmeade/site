@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Meade</title>
+    <link>/</link>
+    <description>Chris Meade</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Introduction to R6 classes with R</title>
+      <link>/post/introduction-to-r6-classes-with-r/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/introduction-to-r6-classes-with-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Mon, 22 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/hello-world/</guid>
+      <description>&lt;p&gt;Pardon the dust, just getting the blog up and running! In the meantime, please visit my &lt;a href=&#34;https://chrismea.de/about/&#34;&gt;About&lt;/a&gt;  section.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 21 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/img/portrait.png&#34; alt=&#34;test&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;biography&#34;&gt;Biography&lt;/h1&gt;
+&lt;p&gt;Hello! I&amp;rsquo;m a Los Angeles based Data Scientist currently working at Warner Bros. Entertainment, where I leverage my R, Python, SQL, and Machine Learning skills to develop end-to-end data science solutions to many of the challenging problems faced by the studio.&lt;/p&gt;
+&lt;p&gt;I have a proven track record of delivering data-driven business solutions in the areas of theatrical marketing, theatrical distribution, box office modeling and forecasting, A/B test design and analysis, and content insight, among others.&lt;/p&gt;
+&lt;p&gt;If you have a project you think I could tackle, please reach out to me at &lt;a href=&#34;mailto:meadectm@gmail.com&#34;&gt;meadectm@gmail.com&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;experience&#34;&gt;Experience&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Data Scientist &amp;ndash; Warner Bros. Entertainment (2019-Present)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Hourly box office forecasting&lt;/li&gt;
+&lt;li&gt;Theatrical distribution optimization&lt;/li&gt;
+&lt;li&gt;Theatrical dating optimization&lt;/li&gt;
+&lt;li&gt;Home Entertainment A/B testing&lt;/li&gt;
+&lt;li&gt;Shiny Dashboard development&lt;/li&gt;
+&lt;li&gt;Computer vision on content&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Data Science Intern &amp;ndash; The Wine Group (2018)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed an automatic sales forecasting pipeline in R using a novel time series ensemble technique, increasing forecast accuracy by greater than 15% over existing methodology&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Created a Shiny Dashboard to integrate with sales history and forecasts to facilitate data driven production planning&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Automated several weekly reporting tasks with R, saving around 10 man hours of work weekly&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Data Science Intern &amp;ndash; City of Los Angeles (2017)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Developed machine learning model (R with XGboost + GLMs) to indicate if a rental tenant is in danger of eviction under Ellis Act&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Created a Shiny dashboard to visualize results of eviction analysis and communicate findings to city stakeholders&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;dl&gt;
+&lt;dt&gt;2017-2019&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;MS, Applied Statistics&lt;/strong&gt;; UCLA (Los Angeles, CA)
+&lt;p&gt;&lt;em&gt;Thesis: Improving Automated Time Series Forecasts with Model Ensembles&lt;/em&gt;&lt;/p&gt;
+&lt;/dd&gt;
+&lt;dt&gt;2013-2017&lt;/dt&gt;
+&lt;dd&gt;&lt;strong&gt;BS Mathematics; BA German&lt;/strong&gt;; UC Santa Barbara (Santa Barbara, CA)&lt;/dd&gt;
+&lt;/dl&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/archives/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
