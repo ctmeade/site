@@ -12,11 +12,29 @@
     
     
     <item>
+      <title>How to Read .sql Files in R</title>
+      <link>/post/how-to-read-sql-files-in-r/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/how-to-read-sql-files-in-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introduction to R6 classes with R</title>
       <link>/post/introduction-to-r6-classes-with-r/</link>
       <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/introduction-to-r6-classes-with-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Link Existing R Projects with a GitHub Repository</title>
+      <link>/post/link-existing-r-projects-with-a-github-repository/</link>
+      <pubDate>Tue, 23 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/link-existing-r-projects-with-a-github-repository/</guid>
       <description></description>
     </item>
     
